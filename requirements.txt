@@ -1,0 +1,2 @@
+dash_bootstrap_components
+subgrounds==0.0.4
